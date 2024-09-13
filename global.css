@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-noto-color-emoji: "Noto Color Emoji";
+  --font-roboto: Roboto;
+  --font-inter: Inter;
+  --font-manrope: Manrope;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray-100: #374151;
+  --color-gold: #fccb38;
+  --color-black: #000;
+  --color-slategray: #6b7280;
+  --color-gray-100: #fefeff;
+  --color-gray-200: rgba(0, 0, 0, 0);
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-10xs: 3px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-29xl: 48px;
+  --padding-18xl: 37px;
+  --padding-12xs: 1px;
+  --padding-mini: 15px;
+  --padding-lgi: 19px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+}
